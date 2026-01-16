@@ -1,4 +1,4 @@
-#Jogo Ping Pong em JavaScript
+Jogo Ping Pong em JavaScript
 
 Projeto de um jogo de Ping Pong online, desenvolvido inteiramente em JavaScript utilizando a biblioteca p5.js, com foco em lógica de programação e interação em tempo real.
 
